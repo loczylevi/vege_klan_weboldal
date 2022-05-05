@@ -212,14 +212,14 @@ html, body{
 .repa{
     float:right;
     width: 200px;
-    height: 600px;
+    height: 250px;
     border: 6px ridge mediumblue;
 
 }
 .repa1{
     float:left;
     width: 200px;
-    height: 600px;
+    height: 250px;
     border: 6px ridge mediumblue;
 
 }
