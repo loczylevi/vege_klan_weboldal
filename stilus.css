@@ -405,3 +405,7 @@ footer {
 .feher{
     color: white;   
 }
+ol li {
+  padding: 10px;
+  margin-left: 35px;
+}
