@@ -382,4 +382,10 @@ border: 6px ridge red;
 #style{
     text-align: center;
 }
+footer {
+  text-align: center;
+  padding: 3px;
+  color: white;
+  font-family: "Times New Roman";
+}
 
